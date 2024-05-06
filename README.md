@@ -35,12 +35,12 @@ Welcome to the DevFinds' Work-Based Experience Sharing Platform! This platform i
 ---
 
 ### Screenshot 5
-![Screenshot 5](/client/s5.jpg)
+<img src="/client/s5.jpg" alt="Screenshot 5" width="60%" height="60%">
 
 ---
 
 ### Screenshot 6
-![Screenshot 6](/client/s6.jpg)
+<img src="/client/s6.jpg" alt="Screenshot 5" width="60%" height="60%">
 
 
 
