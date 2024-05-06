@@ -12,16 +12,39 @@ Welcome to the DevFinds' Work-Based Experience Sharing Platform! This platform i
 -   **Cookie Parsing**: Cookie parsing is implemented for managing user sessions securely.
 -   **Documentation**: The project is thoroughly documented to aid developers in understanding and contributing to the codebase.
 
-## Technologies Used
+## Screenshots
 
--   **Express**: Node.js framework for building efficient and scalable web applications.
--   **Node.js**: Server-side JavaScript runtime environment for executing JavaScript code.
--   **JWT (JSON Web Tokens)**: Secure method for transmitting information between parties as JSON objects.
--   **Socket.io**: Library for real-time web applications, facilitating bidirectional communication between web clients and servers.
--   **MongoDB**: NoSQL database used for storing and managing application data.
--   **Mongoose**: MongoDB object modeling tool designed to work in an asynchronous environment.
--   **Cookie Parser**: Middleware for parsing HTTP request cookies, facilitating session management.
--   **ES6+**: Utilization of modern JavaScript features for enhanced code readability and maintainability.
+![Screenshot 1](/client/s1.png)
+![Screenshot 2](/client/s2.png)
+![Screenshot 3](/client/s3.png)
+![Screenshot 4](/client/s4.png)
+![Screenshot 5](/client/s5.jpg)
+![Screenshot 5](/client/s6.jpg)
+
+
+
+
+# Technologies Used
+
+## Backend Technologies
+- **Express.js**: Node.js framework for building efficient and scalable web applications.
+- **Node.js**: Server-side JavaScript runtime environment for executing JavaScript code.
+- **JWT (JSON Web Tokens)**: Secure method for transmitting information between parties as JSON objects.
+- **Socket.io**: Library for real-time web applications, facilitating bidirectional communication between web clients and servers.
+- **MongoDB**: NoSQL database used for storing and managing application data.
+- **Mongoose**: MongoDB object modeling tool designed to work in an asynchronous environment.
+- **Cookie Parser**: Middleware for parsing HTTP request cookies, facilitating session management.
+- **Firebase**: Platform offering various services like real-time database, authentication, hosting, and more, facilitating rapid development of web and mobile applications.
+- **Google OAuth**: Authentication mechanism allowing users to log in to applications using their Google account credentials.
+- **REST APIs**: Architectural style for designing networked applications, enabling interaction between client and server through stateless communication over HTTP.
+
+## Frontend Technologies
+- **React**: JavaScript library for building user interfaces, allowing for the creation of dynamic and interactive UI components.
+- **Material-UI (MUI)**: React component library implementing Google's Material Design, providing pre-designed UI components for building visually appealing and consistent user interfaces.
+- **Tailwind CSS**: Utility-first CSS framework for building custom designs quickly, offering a flexible and low-level utility approach for styling web applications.
+- **JavaScript**: Programming language used for both client-side and server-side development, offering versatility and compatibility across different environments.
+- **Axios**: Promise-based HTTP client for making AJAX requests from the browser or Node.js, providing an easy-to-use interface for interacting with REST APIs.
+
 
 ## Installation
 
