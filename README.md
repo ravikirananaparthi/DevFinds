@@ -99,6 +99,6 @@ Contributions are welcome! To contribute to the project, follow these steps:
 ## Contact
 
 For any inquiries or feedback, please contact 
-GitHub :(https://github.com/ravikirananaparthi) 
-email:anapathiravikiran20037@gmail.com
-LinkedIn:(https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
+- email:anapathiravikiran20037@gmail.com
+- LinkedIn:(https://www.linkedin.com/in/ravikiran-anaparthi-60861a255/)
+- GitHub :(https://github.com/ravikirananaparthi) 
