@@ -14,12 +14,34 @@ Welcome to the DevFinds' Work-Based Experience Sharing Platform! This platform i
 
 ## Screenshots
 
+### Screenshot 1
 ![Screenshot 1](/client/s1.png)
+
+---
+
+### Screenshot 2
 ![Screenshot 2](/client/s2.png)
+
+---
+
+### Screenshot 3
 ![Screenshot 3](/client/s3.png)
+
+---
+
+### Screenshot 4
 ![Screenshot 4](/client/s4.png)
+
+---
+
+### Screenshot 5
 ![Screenshot 5](/client/s5.jpg)
-![Screenshot 5](/client/s6.jpg)
+
+---
+
+### Screenshot 6
+![Screenshot 6](/client/s6.jpg)
+
 
 
 
