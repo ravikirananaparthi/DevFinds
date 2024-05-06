@@ -12,6 +12,22 @@ Welcome to the DevFinds' Work-Based Experience Sharing Platform! This platform i
 -   **Cookie Parsing**: Cookie parsing is implemented for managing user sessions securely.
 -   **Documentation**: The project is thoroughly documented to aid developers in understanding and contributing to the codebase.
 
+## Screenshots
+
+![Screenshot 1](//s1.png)
+![Screenshot 2](/path/to/s2.png)
+![Screenshot 3](/path/to/s3.png)
+![Screenshot 4](/path/to/s4.png)
+![Screenshot 5](/path/to/s5.png)
+![Screenshot 5](/path/to/s6.png)
+
+## Demo GIFs
+
+![Demo GIF 1](/path/to/demo1.gif)
+![Demo GIF 2](/path/to/demo2.gif)
+![Demo GIF 3](/path/to/demo3.gif)
+
+
 ## Technologies Used
 
 -   **Express**: Node.js framework for building efficient and scalable web applications.
