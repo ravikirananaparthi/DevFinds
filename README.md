@@ -94,7 +94,19 @@ Contributions are welcome! To contribute to the project, follow these steps:
 5.  Push to the branch (`git push origin feature/your-feature-name`).
 6.  Create a new Pull Request.
 
+## Special Thanks & Contributions
 
+### Enhanced Landing Page Experience
+A special thanks to [@JayaVardhan2039] for asignificant contribution to this project:
+- Implemented intuitive animations using GSAP and Framer Motion
+- Improved overall landing page design and interactivity
+
+Your work has added a dynamic touch to our platform, making it more engaging for users. We're grateful for your dedication and expertise in bringing these improvements to DevFinds.
+
+🔗 Connect with the contributor:
+- GitHub: [https://github.com/JayaVardhan2039]
+
+Thank you Ravi for providing this opportunity to contribute to such an impactful project!
 
 ## Contact
 
